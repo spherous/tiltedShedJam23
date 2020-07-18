@@ -5,6 +5,7 @@ using UnityEngine;
 public class Heart : MonoBehaviour
 {
     public float speed;
+    private int lane;
     [SerializeField] private Rigidbody2D body;
     [SerializeField] private HeartSpawner heartSpawner;
     private void Start()
@@ -15,8 +16,9 @@ public class Heart : MonoBehaviour
 
     public void Spawned(HeartSpawner spawner) => heartSpawner = spawner;
     
-    public void Fly(float height, float newSpeed)
+    public void Fly(float height, float newSpeed, int newLane)
     {
+        lane = newLane;
         transform.position = new Vector3(11f, height, 0f);
         speed = newSpeed;
         body.velocity = Vector2.left * speed;
@@ -27,7 +29,7 @@ public class Heart : MonoBehaviour
         Bird bird = other.gameObject.GetComponent<Bird>();
         if(bird != null)
         {
-            bird.Score();
+            bird.Score(lane);
             heartSpawner.Return(this);
         }
     }

@@ -10,7 +10,7 @@ public class Bird : MonoBehaviour
     [SerializeField] private AudioSource audioSource;
     public float flapHeight;
     public int score;
-    [SerializeField] private List<Transform> lanes = new List<Transform>();
+    [SerializeField] private List<Lane> lanes = new List<Lane>();
     private int lanePos;
     
     private void Start()
@@ -21,11 +21,12 @@ public class Bird : MonoBehaviour
 
     private void Update()
     {
-        transform.position = Vector3.Lerp(transform.position, lanes[lanePos].position, Time.deltaTime * flapHeight);
+        transform.position = Vector3.Lerp(transform.position, lanes[lanePos].transform.position, Time.deltaTime * flapHeight);
     }
 
-    internal void Score()
+    internal void Score(int lane)
     {
+        lanes[lane].Chime();
         score++;
     }
 
@@ -36,7 +37,7 @@ public class Bird : MonoBehaviour
                 ? 0 : lanePos - 1 
                 : lanePos + 1 > lanes.Count -1 
                     ? lanes.Count - 1 : lanePos + 1;
-                    
+
         // body.velocity = up ? Vector2.up * flapHeight : Vector2.down * flapHeight;
         audioSource.PlayOneShot(flapClips[UnityEngine.Random.Range(0, flapClips.Count)]);
     }

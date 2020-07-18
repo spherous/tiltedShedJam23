@@ -13,7 +13,7 @@ public class HeartSpawner : MonoBehaviour
     public float amountPerMinute;
     private float nextSpawnAtTime;
 
-    [SerializeField] private List<Transform> lanes = new List<Transform>();
+    [SerializeField] private List<Lane> lanes = new List<Lane>();
 
     private void Awake()
     {
@@ -54,6 +54,6 @@ public class HeartSpawner : MonoBehaviour
 
         Heart heart = heartPool.Dequeue();
         heart.gameObject.SetActive(true);
-        heart.Fly(lanes[laneIndex].position.y, heartSpeed);
+        heart.Fly(lanes[laneIndex].transform.position.y, heartSpeed, laneIndex);
     }
 }
