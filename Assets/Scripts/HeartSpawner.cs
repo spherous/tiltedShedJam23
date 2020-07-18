@@ -13,6 +13,8 @@ public class HeartSpawner : MonoBehaviour
     public float amountPerMinute;
     private float nextSpawnAtTime;
 
+    [SerializeField] private List<Transform> lanes = new List<Transform>();
+
     private void Awake()
     {
         PreSpawn();
@@ -41,17 +43,17 @@ public class HeartSpawner : MonoBehaviour
         if(Time.timeSinceLevelLoad >= nextSpawnAtTime)
         {
             nextSpawnAtTime = Time.timeSinceLevelLoad + (60f / amountPerMinute);
-            SpawnHeart(UnityEngine.Random.Range(-4f, 6f));
+            SpawnHeart(UnityEngine.Random.Range(0, 4));
         }
     }
 
-    public void SpawnHeart(float height)
+    public void SpawnHeart(int laneIndex)
     {
         if(heartPool.Count <= 0)
             PreSpawn();
 
         Heart heart = heartPool.Dequeue();
         heart.gameObject.SetActive(true);
-        heart.Fly(height, heartSpeed);
+        heart.Fly(lanes[laneIndex].position.y, heartSpeed);
     }
 }
