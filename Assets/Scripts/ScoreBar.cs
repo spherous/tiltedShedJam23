@@ -23,7 +23,7 @@ public class ScoreBar : MonoBehaviour
     {
         if(newScore > lastScore)
         {
-            float changeAmount = .01f * Mathf.Floor(player.comboCount / 5f);
+            float changeAmount = .01f * (1 +Mathf.Floor(player.comboCount / 5f));
             scoreBar.fillAmount = scoreBar.fillAmount + changeAmount > 1f ? 1f : scoreBar.fillAmount + changeAmount;
         }
         if(newScore < lastScore)

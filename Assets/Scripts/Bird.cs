@@ -6,6 +6,8 @@ using UnityEngine;
 public class Bird : MonoBehaviour
 {
     public delegate void OnScoreChanged(int newScore);
+    public delegate void OnComboChanged(int newCombo);
+    public OnComboChanged onComboChanged;
     public OnScoreChanged onScoreChanged;
 
     [SerializeField] private Rigidbody2D body;
@@ -44,6 +46,7 @@ public class Bird : MonoBehaviour
         {
             playComboSound();
         }
+        onComboChanged?.Invoke(1 + Mathf.FloorToInt(comboCount / 5f));
         onScoreChanged?.Invoke(score);
     }
 
@@ -63,6 +66,7 @@ public class Bird : MonoBehaviour
     {
         comboCount = 0;
         comboAudioIndex = 0;
+        onComboChanged?.Invoke(1);
     }
 
     public void Flap(bool up = true)
