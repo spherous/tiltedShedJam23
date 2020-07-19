@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-122.85714"
+     inkscape:cx="-645.71428"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,13 +59,17 @@
        height="92.982132"
        x="6.8035712"
        y="52.07143"
-       ry="11.339286" />
+       ry="11.339286"
+       inkscape:export-xdpi="125.09"
+       inkscape:export-ydpi="125.09" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:47.30397093px;line-height:1.25;font-family:AcmeFont;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18259978;-inkscape-font-specification:'AcmeFont,  weight=101';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
        x="40.83654"
        y="102.20374"
-       id="text4520"><tspan
+       id="text4520"
+       inkscape:export-xdpi="125.09"
+       inkscape:export-ydpi="125.09"><tspan
          sodipodi:role="line"
          id="tspan4518"
          x="40.83654"
@@ -77,6 +81,8 @@
        width="173.1131"
        height="18.898809"
        x="19.276785"
-       y="114.05952" />
+       y="114.05952"
+       inkscape:export-xdpi="125.09"
+       inkscape:export-ydpi="125.09" />
   </g>
 </svg>
