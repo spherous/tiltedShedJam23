@@ -10,6 +10,7 @@ public class ScoreBar : MonoBehaviour
     [SerializeField] private Image scoreBar;
     [SerializeField] private Bird player;
     [SerializeField] private GameObject nopeScreen;
+    [SerializeField] private AudioSource source;
     private int lastScore;
     
     private void Start() {
@@ -32,6 +33,7 @@ public class ScoreBar : MonoBehaviour
         // Lose
         if(scoreBar.fillAmount <= 0)
         {
+            source.Play();
             Time.timeScale = 0f;
             nopeScreen.SetActive(true);
         }

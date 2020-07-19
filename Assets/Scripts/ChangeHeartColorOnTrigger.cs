@@ -6,6 +6,7 @@ public class ChangeHeartColorOnTrigger : MonoBehaviour
 {
     [SerializeField] private Color lightUpColor;
     [SerializeField] private GameObject particlePrefab;
+    [SerializeField] private AudioSource source;
     private void OnTriggerEnter2D(Collider2D other)
     {
         Heart heart = other.gameObject.GetComponent<Heart>();
@@ -13,6 +14,7 @@ public class ChangeHeartColorOnTrigger : MonoBehaviour
         {
             heart.targetColor = lightUpColor;
             Instantiate(particlePrefab, other.transform.position, Quaternion.identity);
+            source.Play();
             // heart.GetComponent<SpriteRenderer>().color = lightUpColor;
         }
     }
