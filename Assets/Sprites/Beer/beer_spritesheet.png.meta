@@ -1,289 +1,151 @@
 fileFormatVersion: 2
-guid: 4d077acbf9ee81b4f84f624e9300c760
+guid: 85bef369ff55a09449e11d22f6e7f5e4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7156409440482370284
-    second: bird_spritesheet_0
+      213: -3210037133272180629
+    second: beer_spritesheet_0
   - first:
-      213: -1737824115522105005
-    second: bird_spritesheet_1
+      213: -6113579940377748910
+    second: beer_spritesheet_1
   - first:
-      213: -7543060164226505971
-    second: bird_spritesheet_2
+      213: -9019736238099268052
+    second: beer_spritesheet_2
   - first:
-      213: 461230417371399666
-    second: bird_spritesheet_3
+      213: -4953134968397023081
+    second: beer_spritesheet_3
   - first:
-      213: 8935066908578843471
-    second: bird_spritesheet_4
+      213: 3038933017228873662
+    second: beer_spritesheet_4
   - first:
-      213: -6717606592423899060
-    second: bird_spritesheet_5
+      213: -4649009646358924600
+    second: beer_spritesheet_5
   - first:
-      213: -1167214883520993027
-    second: bird_spritesheet_6
+      213: -4449486993812588650
+    second: beer_spritesheet_6
   - first:
-      213: 9084742824542264917
-    second: bird_spritesheet_7
+      213: -1142892338815302110
+    second: beer_spritesheet_7
   - first:
-      213: 5433530447693173414
-    second: bird_spritesheet_8
+      213: 4242771607533827176
+    second: beer_spritesheet_8
   - first:
-      213: 2185861977841021251
-    second: bird_spritesheet_9
+      213: -8689383089966272117
+    second: beer_spritesheet_9
   - first:
-      213: -3282987708265331878
-    second: bird_spritesheet_10
+      213: 1474609002874096579
+    second: beer_spritesheet_10
   - first:
-      213: 8450704397680025195
-    second: bird_spritesheet_11
+      213: -2238061136454825892
+    second: beer_spritesheet_11
   - first:
-      213: 1322704896779754933
-    second: bird_spritesheet_12
+      213: -5975780971124738328
+    second: beer_spritesheet_12
   - first:
-      213: 1066899164442017570
-    second: bird_spritesheet_13
+      213: -2091433362627155951
+    second: beer_spritesheet_13
   - first:
-      213: -7397077668598963316
-    second: bird_spritesheet_14
+      213: 9083079251234896771
+    second: beer_spritesheet_14
   - first:
-      213: 4478081317874468546
-    second: bird_spritesheet_15
+      213: -3217079925071060265
+    second: beer_spritesheet_15
   - first:
-      213: 4648164147508957613
-    second: bird_spritesheet_16
+      213: -1015044275768587054
+    second: beer_spritesheet_16
   - first:
-      213: 2438120581189132456
-    second: bird_spritesheet_17
+      213: -1346237828392213933
+    second: beer_spritesheet_17
   - first:
-      213: -3382000463322423796
-    second: bird_spritesheet_18
+      213: 84098092986339096
+    second: beer_spritesheet_18
   - first:
-      213: -3667373524775144328
-    second: bird_spritesheet_19
+      213: 1881540020073119134
+    second: beer_spritesheet_19
   - first:
-      213: 2149910672702874309
-    second: bird_spritesheet_20
+      213: 7944284976133505169
+    second: beer_spritesheet_20
   - first:
-      213: -5877703191403615115
-    second: bird_spritesheet_21
+      213: 2719558616465143655
+    second: beer_spritesheet_21
   - first:
-      213: 9068125253367727628
-    second: bird_spritesheet_22
+      213: -1084279998252982343
+    second: beer_spritesheet_22
   - first:
-      213: 1675023339419700695
-    second: bird_spritesheet_23
+      213: 7354362669911481710
+    second: beer_spritesheet_23
   - first:
-      213: -8640912004734804270
-    second: bird_spritesheet_24
+      213: -4845215479550232102
+    second: beer_spritesheet_24
   - first:
-      213: -9065295140316500470
-    second: bird_spritesheet_25
+      213: 1356668901153999528
+    second: beer_spritesheet_25
   - first:
-      213: -1240103062415429670
-    second: bird_spritesheet_26
+      213: -8601190929132613304
+    second: beer_spritesheet_26
   - first:
-      213: -2983898967874460868
-    second: bird_spritesheet_27
+      213: -1284198763692490967
+    second: beer_spritesheet_27
   - first:
-      213: 7260184734136312107
-    second: bird_spritesheet_28
+      213: 193426647168862518
+    second: beer_spritesheet_28
   - first:
-      213: -510738679170100646
-    second: bird_spritesheet_29
+      213: -5602527905510773595
+    second: beer_spritesheet_29
   - first:
-      213: 3218161452265957207
-    second: bird_spritesheet_30
+      213: 2196325751563148862
+    second: beer_spritesheet_30
   - first:
-      213: -7193761070754972661
-    second: bird_spritesheet_31
+      213: 2380031344116187862
+    second: beer_spritesheet_31
   - first:
-      213: 4432302305979653027
-    second: bird_spritesheet_32
+      213: -9051598955151503326
+    second: beer_spritesheet_32
   - first:
-      213: 2183128470303993586
-    second: bird_spritesheet_33
+      213: -6152336605682015395
+    second: beer_spritesheet_33
   - first:
-      213: 3736158821746753738
-    second: bird_spritesheet_34
+      213: -5705470868005365631
+    second: beer_spritesheet_34
   - first:
-      213: 8903176934628406309
-    second: bird_spritesheet_35
+      213: -4308076716556855375
+    second: beer_spritesheet_35
   - first:
-      213: -1827052503443277871
-    second: bird_spritesheet_36
+      213: -2427574431599193342
+    second: beer_spritesheet_36
   - first:
-      213: -7905040136951247165
-    second: bird_spritesheet_37
+      213: 5467734432664956433
+    second: beer_spritesheet_37
   - first:
-      213: 4159562363958882565
-    second: bird_spritesheet_38
+      213: 8233030073751698618
+    second: beer_spritesheet_38
   - first:
-      213: -856303814860547537
-    second: bird_spritesheet_39
+      213: 2590705346835104741
+    second: beer_spritesheet_39
   - first:
-      213: -4152738210105441945
-    second: bird_spritesheet_40
+      213: 4167100589426196978
+    second: beer_spritesheet_40
   - first:
-      213: 2648846760684821287
-    second: bird_spritesheet_41
+      213: 5822652785386940221
+    second: beer_spritesheet_41
   - first:
-      213: -7994075920125064582
-    second: bird_spritesheet_42
+      213: -6899428972977009565
+    second: beer_spritesheet_42
   - first:
-      213: -1093870272021057463
-    second: bird_spritesheet_43
+      213: 2562400897520119825
+    second: beer_spritesheet_43
   - first:
-      213: 47323187396322815
-    second: bird_spritesheet_44
+      213: -256402154380010154
+    second: beer_spritesheet_44
   - first:
-      213: 4081881129398184030
-    second: bird_spritesheet_45
+      213: 7560696430263920713
+    second: beer_spritesheet_45
   - first:
-      213: -4883833380334634063
-    second: bird_spritesheet_46
+      213: 7611157313834827511
+    second: beer_spritesheet_46
   - first:
-      213: -5651637129178790701
-    second: bird_spritesheet_0
-  - first:
-      213: 4751371902023793732
-    second: bird_spritesheet_1
-  - first:
-      213: -2980465595184543623
-    second: bird_spritesheet_2
-  - first:
-      213: -3935959059527866665
-    second: bird_spritesheet_3
-  - first:
-      213: -5041421980970036913
-    second: bird_spritesheet_4
-  - first:
-      213: -6750614573452756764
-    second: bird_spritesheet_5
-  - first:
-      213: 5012483753070611369
-    second: bird_spritesheet_6
-  - first:
-      213: 5897975472942855840
-    second: bird_spritesheet_7
-  - first:
-      213: 2518630790486106236
-    second: bird_spritesheet_8
-  - first:
-      213: -932353104343830921
-    second: bird_spritesheet_9
-  - first:
-      213: -1088137096830116739
-    second: bird_spritesheet_10
-  - first:
-      213: 5936443757605604642
-    second: bird_spritesheet_11
-  - first:
-      213: 6120058195232694514
-    second: bird_spritesheet_12
-  - first:
-      213: -1823924055239668009
-    second: bird_spritesheet_13
-  - first:
-      213: -6735903195408665104
-    second: bird_spritesheet_14
-  - first:
-      213: -256551650082297487
-    second: bird_spritesheet_15
-  - first:
-      213: 9103664125196376320
-    second: bird_spritesheet_16
-  - first:
-      213: -8262350053056950565
-    second: bird_spritesheet_17
-  - first:
-      213: -7643875616982501341
-    second: bird_spritesheet_18
-  - first:
-      213: -2630986889277746400
-    second: bird_spritesheet_19
-  - first:
-      213: 1236789593553157162
-    second: bird_spritesheet_20
-  - first:
-      213: 2215767556658511408
-    second: bird_spritesheet_21
-  - first:
-      213: -8237935340637848768
-    second: bird_spritesheet_22
-  - first:
-      213: 7338323053870314425
-    second: bird_spritesheet_23
-  - first:
-      213: -8130007419189777375
-    second: bird_spritesheet_24
-  - first:
-      213: -801639711477846764
-    second: bird_spritesheet_25
-  - first:
-      213: -6825818396184599286
-    second: bird_spritesheet_26
-  - first:
-      213: -8165868258171505141
-    second: bird_spritesheet_27
-  - first:
-      213: 8699651065160591024
-    second: bird_spritesheet_28
-  - first:
-      213: -9075051003123835747
-    second: bird_spritesheet_29
-  - first:
-      213: -8141233082953140267
-    second: bird_spritesheet_30
-  - first:
-      213: 1142752487398385055
-    second: bird_spritesheet_31
-  - first:
-      213: -3561090216608721596
-    second: bird_spritesheet_32
-  - first:
-      213: -1494613841684199419
-    second: bird_spritesheet_33
-  - first:
-      213: -2483571983230655649
-    second: bird_spritesheet_34
-  - first:
-      213: 5437843901981012246
-    second: bird_spritesheet_35
-  - first:
-      213: 355935384086248377
-    second: bird_spritesheet_36
-  - first:
-      213: -8450190934255053468
-    second: bird_spritesheet_37
-  - first:
-      213: -3600227682908690998
-    second: bird_spritesheet_38
-  - first:
-      213: 6666479712954225359
-    second: bird_spritesheet_39
-  - first:
-      213: -364698385813156441
-    second: bird_spritesheet_40
-  - first:
-      213: -5881753913433209329
-    second: bird_spritesheet_41
-  - first:
-      213: 511724746120290492
-    second: bird_spritesheet_42
-  - first:
-      213: 6737200562709192157
-    second: bird_spritesheet_43
-  - first:
-      213: -6373607237098041902
-    second: bird_spritesheet_44
-  - first:
-      213: -8544857064335844163
-    second: bird_spritesheet_45
-  - first:
-      213: 7484430614748551587
-    second: bird_spritesheet_47
+      213: 3804048718523212847
+    second: beer_spritesheet_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -327,7 +189,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -405,28 +267,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bird_spritesheet_46
-      rect:
-        serializedVersion: 2
-        x: 11500
-        y: 0
-        width: 250
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bb75fe8a63293cb0800000000000000
-      internalID: -4883833380334634063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bird_spritesheet_0
+      name: beer_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -440,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d4c3e389f95191b0800000000000000
-      internalID: -5651637129178790701
+      spriteID: b689f7b1c38a373d0800000000000000
+      internalID: -3210037133272180629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_1
+      name: beer_spritesheet_1
       rect:
         serializedVersion: 2
         x: 250
@@ -461,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44c76ef229340f140800000000000000
-      internalID: 4751371902023793732
+      spriteID: 25a94d37f63382ba0800000000000000
+      internalID: -6113579940377748910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_2
+      name: beer_spritesheet_2
       rect:
         serializedVersion: 2
         x: 500
@@ -482,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97880c5155243a6d0800000000000000
-      internalID: -2980465595184543623
+      spriteID: c2eff581ea573d280800000000000000
+      internalID: -9019736238099268052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_3
+      name: beer_spritesheet_3
       rect:
         serializedVersion: 2
         x: 750
@@ -503,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d66c56c61aa069c0800000000000000
-      internalID: -3935959059527866665
+      spriteID: 79831243dfde24bb0800000000000000
+      internalID: -4953134968397023081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_4
+      name: beer_spritesheet_4
       rect:
         serializedVersion: 2
         x: 1000
@@ -524,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f415f6d3b65490ab0800000000000000
-      internalID: -5041421980970036913
+      spriteID: ebf022c6a757c2a20800000000000000
+      internalID: 3038933017228873662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_5
+      name: beer_spritesheet_5
       rect:
         serializedVersion: 2
         x: 1250
@@ -545,14 +386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e8f5cdcfcff052a0800000000000000
-      internalID: -6750614573452756764
+      spriteID: 8c2796fab566b7fb0800000000000000
+      internalID: -4649009646358924600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_6
+      name: beer_spritesheet_6
       rect:
         serializedVersion: 2
         x: 1500
@@ -566,14 +407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9abc0388a6bef8540800000000000000
-      internalID: 5012483753070611369
+      spriteID: 697741d472f3042c0800000000000000
+      internalID: -4449486993812588650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_7
+      name: beer_spritesheet_7
       rect:
         serializedVersion: 2
         x: 1750
@@ -587,14 +428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6b9be9171d9d150800000000000000
-      internalID: 5897975472942855840
+      spriteID: 22606602971a320f0800000000000000
+      internalID: -1142892338815302110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_8
+      name: beer_spritesheet_8
       rect:
         serializedVersion: 2
         x: 2000
@@ -608,14 +449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7029431c59f3f220800000000000000
-      internalID: 2518630790486106236
+      spriteID: 864ba224c4a51ea30800000000000000
+      internalID: 4242771607533827176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_9
+      name: beer_spritesheet_9
       rect:
         serializedVersion: 2
         x: 2250
@@ -629,14 +470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77e6a5a9acd9f03f0800000000000000
-      internalID: -932353104343830921
+      spriteID: b8136453e1c196780800000000000000
+      internalID: -8689383089966272117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_10
+      name: beer_spritesheet_10
       rect:
         serializedVersion: 2
         x: 2500
@@ -650,14 +491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7c148c531926e0f0800000000000000
-      internalID: -1088137096830116739
+      spriteID: 3cb47e6431dd67410800000000000000
+      internalID: 1474609002874096579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_11
+      name: beer_spritesheet_11
       rect:
         serializedVersion: 2
         x: 2750
@@ -671,14 +512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22dca29152c726250800000000000000
-      internalID: 5936443757605604642
+      spriteID: c58c000114fc0f0e0800000000000000
+      internalID: -2238061136454825892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_12
+      name: beer_spritesheet_12
       rect:
         serializedVersion: 2
         x: 3000
@@ -692,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f0209bc080dee450800000000000000
-      internalID: 6120058195232694514
+      spriteID: 8e632982ed2c11da0800000000000000
+      internalID: -5975780971124738328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_13
+      name: beer_spritesheet_13
       rect:
         serializedVersion: 2
         x: 3250
@@ -713,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7de462e3cbe10b6e0800000000000000
-      internalID: -1823924055239668009
+      spriteID: 1182535007cb9f2e0800000000000000
+      internalID: -2091433362627155951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_14
+      name: beer_spritesheet_14
       rect:
         serializedVersion: 2
         x: 3500
@@ -734,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f57f3c6bb34582a0800000000000000
-      internalID: -6735903195408665104
+      spriteID: 38bb39c64749d0e70800000000000000
+      internalID: 9083079251234896771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_15
+      name: beer_spritesheet_15
       rect:
         serializedVersion: 2
         x: 3750
@@ -755,14 +596,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 179ed4e22ab807cf0800000000000000
-      internalID: -256551650082297487
+      spriteID: 7d2691c5ad2aa53d0800000000000000
+      internalID: -3217079925071060265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_16
+      name: beer_spritesheet_16
       rect:
         serializedVersion: 2
         x: 4000
@@ -776,14 +617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0091cc0e946b65e70800000000000000
-      internalID: 9103664125196376320
+      spriteID: 2dc058feb96d9e1f0800000000000000
+      internalID: -1015044275768587054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_17
+      name: beer_spritesheet_17
       rect:
         serializedVersion: 2
         x: 4250
@@ -797,14 +638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bde4c9d076c365d80800000000000000
-      internalID: -8262350053056950565
+      spriteID: 3522d77e3d3315de0800000000000000
+      internalID: -1346237828392213933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_18
+      name: beer_spritesheet_18
       rect:
         serializedVersion: 2
         x: 4500
@@ -818,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 328fc7610af7be590800000000000000
-      internalID: -7643875616982501341
+      spriteID: 81f0dbe15c6ca2100800000000000000
+      internalID: 84098092986339096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_19
+      name: beer_spritesheet_19
       rect:
         serializedVersion: 2
         x: 4750
@@ -839,14 +680,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 023d3ef1d5bdc7bd0800000000000000
-      internalID: -2630986889277746400
+      spriteID: e9db32feda29c1a10800000000000000
+      internalID: 1881540020073119134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_20
+      name: beer_spritesheet_20
       rect:
         serializedVersion: 2
         x: 5000
@@ -860,14 +701,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2cb2a12595f92110800000000000000
-      internalID: 1236789593553157162
+      spriteID: 19009ec5815cf3e60800000000000000
+      internalID: 7944284976133505169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_21
+      name: beer_spritesheet_21
       rect:
         serializedVersion: 2
         x: 5250
@@ -881,14 +722,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03e37776adcffbe10800000000000000
-      internalID: 2215767556658511408
+      spriteID: 767f1402720ddb520800000000000000
+      internalID: 2719558616465143655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_22
+      name: beer_spritesheet_22
       rect:
         serializedVersion: 2
         x: 5500
@@ -902,14 +743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04bf4a24479fcad80800000000000000
-      internalID: -8237935340637848768
+      spriteID: 9bfd11b161dd3f0f0800000000000000
+      internalID: -1084279998252982343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_23
+      name: beer_spritesheet_23
       rect:
         serializedVersion: 2
         x: 5750
@@ -923,14 +764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b3fff8ffe5f6d560800000000000000
-      internalID: 7338323053870314425
+      spriteID: e6d977912e1ff0660800000000000000
+      internalID: 7354362669911481710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_24
+      name: beer_spritesheet_24
       rect:
         serializedVersion: 2
         x: 6000
@@ -944,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12c27eda3596c2f80800000000000000
-      internalID: -8130007419189777375
+      spriteID: ad93f21413652ccb0800000000000000
+      internalID: -4845215479550232102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_25
+      name: beer_spritesheet_25
       rect:
         serializedVersion: 2
         x: 6250
@@ -965,14 +806,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41d248ffde000e4f0800000000000000
-      internalID: -801639711477846764
+      spriteID: 8aa8a1b7d2bd3d210800000000000000
+      internalID: 1356668901153999528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_26
+      name: beer_spritesheet_26
       rect:
         serializedVersion: 2
         x: 6500
@@ -986,14 +827,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a05271a5552d541a0800000000000000
-      internalID: -6825818396184599286
+      spriteID: 8411db7cb6e62a880800000000000000
+      internalID: -8601190929132613304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_27
+      name: beer_spritesheet_27
       rect:
         serializedVersion: 2
         x: 6750
@@ -1007,14 +848,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b06bc0575120dae80800000000000000
-      internalID: -8165868258171505141
+      spriteID: 92ffc15470c9d2ee0800000000000000
+      internalID: -1284198763692490967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_28
+      name: beer_spritesheet_28
       rect:
         serializedVersion: 2
         x: 7000
@@ -1028,14 +869,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b6eeb01d8e5bb870800000000000000
-      internalID: 8699651065160591024
+      spriteID: 6394892c2803fa200800000000000000
+      internalID: 193426647168862518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_29
+      name: beer_spritesheet_29
       rect:
         serializedVersion: 2
         x: 7250
@@ -1049,14 +890,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9c5040c131fe0280800000000000000
-      internalID: -9075051003123835747
+      spriteID: 5ac21dbad82df32b0800000000000000
+      internalID: -5602527905510773595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_30
+      name: beer_spritesheet_30
       rect:
         serializedVersion: 2
         x: 7500
@@ -1070,14 +911,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d77be825a7840f80800000000000000
-      internalID: -8141233082953140267
+      spriteID: e3ed6f862aaea7e10800000000000000
+      internalID: 2196325751563148862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_31
+      name: beer_spritesheet_31
       rect:
         serializedVersion: 2
         x: 7750
@@ -1091,14 +932,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f95239d255fdbdf00800000000000000
-      internalID: 1142752487398385055
+      spriteID: 6d24754c5e1970120800000000000000
+      internalID: 2380031344116187862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_32
+      name: beer_spritesheet_32
       rect:
         serializedVersion: 2
         x: 8000
@@ -1112,14 +953,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4451be1c057749ec0800000000000000
-      internalID: -3561090216608721596
+      spriteID: 220d5ec25b2426280800000000000000
+      internalID: -9051598955151503326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_33
+      name: beer_spritesheet_33
       rect:
         serializedVersion: 2
         x: 8250
@@ -1133,14 +974,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 508080a31a0124be0800000000000000
-      internalID: -1494613841684199419
+      spriteID: d53e0bf14728e9aa0800000000000000
+      internalID: -6152336605682015395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_34
+      name: beer_spritesheet_34
       rect:
         serializedVersion: 2
         x: 8500
@@ -1154,14 +995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f53ac659074988dd0800000000000000
-      internalID: -2483571983230655649
+      spriteID: 1885334797812d0b0800000000000000
+      internalID: -5705470868005365631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_35
+      name: beer_spritesheet_35
       rect:
         serializedVersion: 2
         x: 8750
@@ -1175,14 +1016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6113a99c73a177b40800000000000000
-      internalID: 5437843901981012246
+      spriteID: 1b75f7c2d03a634c0800000000000000
+      internalID: -4308076716556855375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_36
+      name: beer_spritesheet_36
       rect:
         serializedVersion: 2
         x: 9000
@@ -1196,14 +1037,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bbf373985980f400800000000000000
-      internalID: 355935384086248377
+      spriteID: 20395b29ae58f4ed0800000000000000
+      internalID: -2427574431599193342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_37
+      name: beer_spritesheet_37
       rect:
         serializedVersion: 2
         x: 9250
@@ -1217,14 +1058,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4655087cd14eaba80800000000000000
-      internalID: -8450190934255053468
+      spriteID: 11eaa294f7b41eb40800000000000000
+      internalID: 5467734432664956433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_38
+      name: beer_spritesheet_38
       rect:
         serializedVersion: 2
         x: 9500
@@ -1238,14 +1079,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac523b94ffb690ec0800000000000000
-      internalID: -3600227682908690998
+      spriteID: abcf31b4b39914270800000000000000
+      internalID: 8233030073751698618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_39
+      name: beer_spritesheet_39
       rect:
         serializedVersion: 2
         x: 9750
@@ -1259,14 +1100,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc21cf87af7148c50800000000000000
-      internalID: 6666479712954225359
+      spriteID: 5e3cfcb69c804f320800000000000000
+      internalID: 2590705346835104741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_40
+      name: beer_spritesheet_40
       rect:
         serializedVersion: 2
         x: 10000
@@ -1280,14 +1121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7adc27710c450faf0800000000000000
-      internalID: -364698385813156441
+      spriteID: 2f1c11868e384d930800000000000000
+      internalID: 4167100589426196978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_41
+      name: beer_spritesheet_41
       rect:
         serializedVersion: 2
         x: 10250
@@ -1301,14 +1142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f06cc858affcf5ea0800000000000000
-      internalID: -5881753913433209329
+      spriteID: d376d6bcbd73ec050800000000000000
+      internalID: 5822652785386940221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_42
+      name: beer_spritesheet_42
       rect:
         serializedVersion: 2
         x: 10500
@@ -1322,14 +1163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb0e64302f20a1700800000000000000
-      internalID: 511724746120290492
+      spriteID: 36ccaa067ed4040a0800000000000000
+      internalID: -6899428972977009565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_43
+      name: beer_spritesheet_43
       rect:
         serializedVersion: 2
         x: 10750
@@ -1343,14 +1184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dddd7d077385f7d50800000000000000
-      internalID: 6737200562709192157
+      spriteID: 11034d44a0a7f8320800000000000000
+      internalID: 2562400897520119825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_44
+      name: beer_spritesheet_44
       rect:
         serializedVersion: 2
         x: 11000
@@ -1364,14 +1205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dd89e69cf56c87a0800000000000000
-      internalID: -6373607237098041902
+      spriteID: 65dd88c5993117cf0800000000000000
+      internalID: -256402154380010154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_45
+      name: beer_spritesheet_45
       rect:
         serializedVersion: 2
         x: 11250
@@ -1385,14 +1226,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbc56c7c5c19a6980800000000000000
-      internalID: -8544857064335844163
+      spriteID: 948e174585dfce860800000000000000
+      internalID: 7560696430263920713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_spritesheet_47
+      name: beer_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7febdb4504340a960800000000000000
+      internalID: 7611157313834827511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_spritesheet_47
       rect:
         serializedVersion: 2
         x: 11750
@@ -1406,8 +1268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a9552a6df90ed760800000000000000
-      internalID: 7484430614748551587
+      spriteID: f242bdf9722bac430800000000000000
+      internalID: 3804048718523212847
       vertices: []
       indices: 
       edges: []
@@ -1415,7 +1277,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 761637afa24c7ad4fbbc04aa1966064b
     internalID: 0
     vertices: []
     indices: 
