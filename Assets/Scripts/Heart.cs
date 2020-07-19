@@ -6,8 +6,9 @@ public class Heart : MonoBehaviour
 {
     public float speed;
     private int lane;
+    private HeartSpawner heartSpawner;
     [SerializeField] private Rigidbody2D body;
-    [SerializeField] private HeartSpawner heartSpawner;
+    [SerializeField] private GameObject collectionParticle;
     private void Start()
     {
         body = GetComponent<Rigidbody2D>();
@@ -30,6 +31,7 @@ public class Heart : MonoBehaviour
         if(bird != null)
         {
             bird.Score(lane);
+            Instantiate(collectionParticle, transform.position, Quaternion.identity);
             heartSpawner.Return(this);
         }
     }
