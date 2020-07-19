@@ -41,12 +41,9 @@ public class Bird : MonoBehaviour
     {
         lanes[lane].Chime();
         score += 1 + Mathf.FloorToInt(comboCount / 5f);
-        comboCount++;
-        if(comboCount % 5 == 0)
-        {
-            playComboSound();
-        }
-        onComboChanged?.Invoke(1 + Mathf.FloorToInt(comboCount / 5f));
+        if((comboCount + 1) % 5 == 0)
+            ComboUp();
+
         onScoreChanged?.Invoke(score);
     }
 
@@ -54,6 +51,13 @@ public class Bird : MonoBehaviour
     {
         score--;
         onScoreChanged?.Invoke(score);
+    }
+
+    public void ComboUp()
+    {
+        comboCount += 5;
+        playComboSound();
+        onComboChanged?.Invoke(1 + Mathf.FloorToInt(comboCount / 5f));
     }
 
     private void playComboSound()

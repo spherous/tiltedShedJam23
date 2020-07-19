@@ -32,7 +32,7 @@ public class HeartSpawner : MonoBehaviour
         }
     }
 
-    internal void Return(Heart heart)
+    public void Return(Heart heart)
     {
         heartPool.Enqueue(heart);
         heart.gameObject.SetActive(false);
