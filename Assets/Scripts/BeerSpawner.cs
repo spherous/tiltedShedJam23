@@ -40,7 +40,7 @@ public class BeerSpawner : MonoBehaviour
         if(Time.timeSinceLevelLoad >= nextSpawnAtTime)
         {
             nextSpawnAtTime = Time.timeSinceLevelLoad + (60f / amountPerMinute);
-            SpawnBeer(UnityEngine.Random.Range(0, 4));
+            SpawnBeer(UnityEngine.Random.Range(0, 5));
         }
     }
 

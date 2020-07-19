@@ -13,11 +13,13 @@ public class MissedHeartTrigger : MonoBehaviour
         Heart heart = other.gameObject.GetComponent<Heart>();
         if(heart != null)    
         {
+            heart.GetComponent<SpriteRenderer>().color = Color.black;
             missedNoteSource.Play();
             if(player.comboCount / 5f > 1)
                 lostComboSource.Play();
+            
             player.LoseCombo();
-
+            
             player.LosePoints();
         }
     }
