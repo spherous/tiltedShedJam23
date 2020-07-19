@@ -1,0 +1,25 @@
+Notes and time signatures:
+Time: 4/4  ,  70bpm  ,  1/16  note intervals
+
+Bass
+starts at bar 9 (on the 129th 1/16 note)
+Pattern is [1001,0001,1010,0100]
+
+Cowbell
+Starts on bar 9 (on the 133rd 1/16 note)
+Pattern is [0000,1000,0000,0000]
+
+Snare
+Starts on bar 9 (on the 141st 7/16 note)
+Pattern is [0000,0000,0000,1000]
+
+Arp
+Starts at bar 1 (first note)
+Pattern is [1010, 1010, 1010, 1010,]
+
+Hihat
+Bars 5-8
+[0000,1000,0000,1000] [0000,1000,0000,1010]
+[0000,1000,0000,1000] [0000,1000,0000,1000]
+Bar 9
+[000,0000,0001,0010]    
