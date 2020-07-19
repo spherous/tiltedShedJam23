@@ -97,9 +97,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
+  colorChangeSpeed: 15
   body: {fileID: 7888451958167379319}
+  spriteRenderer: {fileID: 7888451958167379320}
   collectionParticle: {fileID: 4585243886132234678, guid: af0bbb18810a36041a23d073bc8208d5,
     type: 3}
+  targetColor: {r: 0.8867924, g: 0.73202205, b: 0.73202205, a: 1}
 --- !u!60 &7888451958167379323
 PolygonCollider2D:
   m_ObjectHideFlags: 0

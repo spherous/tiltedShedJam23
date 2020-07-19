@@ -56,6 +56,7 @@ public class HeartSpawner : MonoBehaviour
         Heart heart = heartPool.Dequeue();
 
         heart.gameObject.GetComponent<SpriteRenderer>().color = defaultHeartColor;
+        heart.targetColor = defaultHeartColor;
 
         heart.gameObject.SetActive(true);
         heart.Fly(lanes[laneIndex].transform.position.y, heartSpeed, laneIndex);
